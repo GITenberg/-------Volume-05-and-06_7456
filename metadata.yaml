@@ -1,0 +1,30 @@
+_repo: '-------Volume-05-and-06_7456'
+_version: 0.0.1
+alternative_title: Yan Shi Jia Xun — Volume 05 and 06
+creator:
+  author:
+    agent_name: Yan, Zhitui
+    alias: 顏之推
+    birthdate: 531
+    deathdate: 591
+    gutenberg_agent_id: '2476'
+    url: http://www.gutenberg.org/2009/agents/2476
+    wikipedia: http://en.wikipedia.org/wiki/Yan_Zhitui
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7456'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese classics -- Bibliography'
+- !lcsh 'Ethics -- China'
+- !lcsh 'Philosophers -- China'
+- !lcc 'PL'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: 顔氏家訓 — Volume 05 and 06
+url: http://www.gutenberg.org/ebooks/7456
